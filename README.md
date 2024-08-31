@@ -4,7 +4,7 @@ MyServer is your own localhost server. you can setup PHP, Apache and MySQL serve
 <br/><br/><br/>
 
 <p align="center">
-<img src="https://github.com/Mraprguild/MyServer/tree/master/src/Screenshot.jpg>
+<img src="https://github.com/Mraprguild/MyServer/tree/master/src/Screenshot.jpg"/>
 </p>
 
 <br/><br/><br/>
