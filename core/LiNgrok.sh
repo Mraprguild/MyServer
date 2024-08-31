@@ -1,8 +1,4 @@
-#!/bin/bash
-# Tool Name :- MyServer
-# Author :- Mraprguild 
-# Date :- 22/5/2022
-# Powered By :- Aex Software's
+# !/bin/bash
 file="ngrok"
 pkg install tar -y
 pkg install curl -y
