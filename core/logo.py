@@ -1,8 +1,3 @@
-# Tool Name :- MyServer
-# Author :- Rajkumar Dusad
-# Date :- 22/5/2018
-# Powered By :- Aex Software's
-
 import os
 import sys
 from time import sleep
@@ -136,7 +131,7 @@ def ab():
     Mylogo()
     print('''
       \033[1;36m Tool Name   :-     \033[0;33mMyServer
-      \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
+      \033[1;36m Author      :-     \033[0;33mMraprguild
       \033[1;36m Powered By  :-     \033[0;33mAex Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost
@@ -150,7 +145,7 @@ def ab():
     Mylogo()
     print('''
           \033[1;36m Tool Name   :-     \033[0;33mMyServer
-          \033[1;36m Author      :-     \033[0;33mRajkumar Dusad
+          \033[1;36m Author      :-     \033[0;33mMraprguild
           \033[1;36m Powered By  :-     \033[0;33mAex Software's
 
 \033[1;33m MyServer :- \033[0;32mMyServer is your own localhost server.
