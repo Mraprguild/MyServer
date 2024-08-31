@@ -1,8 +1,3 @@
-# Tool Name :- MyServer
-# Author :- Rajkumar Dusad
-# Date :- 23/5/2018
-# Powered By :- Aex Software's
-
 import sys
 import os
 from time import sleep
