@@ -1,6 +1,6 @@
 #!/bin/sh
 # Tool Name :- MyServer
-# Date :- 23/5/2018 - 22/July/2019
+# Date :- 23/5/2022 - 22/July/2019
 
 main() {
        if [ -e  /usr/lib/sudo ];then
