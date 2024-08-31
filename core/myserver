@@ -1,6 +1,6 @@
 # Tool Name :- MyServer
-# Author :- Rajkumar Dusad
-# Date :- 13/11/2018
+# Author :- Mraprguild 
+# Date :- 22/04/2020
 # Powered By :- Aex Software's
 if [ -d /data/data/com.termux/files/usr/share/MyServer ];then
   cd /data/data/com.termux/files/usr/share/MyServer
