@@ -1,8 +1,3 @@
-# Tool Name :- MyServer
-# Author :- Rajkumar Dusad
-# Date :- 22/5/2018
-# Powered By :- Aex Software's
-
 import sys
 import os
 from time import sleep
@@ -25,9 +20,9 @@ class upd(object):
           os.system(pac+" update")
           os.system(pac+" install git -y")
         if system=="ubuntu":
-          os.system("cd "+home+" && sudo git clone https://github.com/Rajkumrdusad/MyServer.git")
+          os.system("cd "+home+" && sudo git clone https://github.com/Mraprguild/MyServer.git")
         else:
-          os.system("cd "+home+" && git clone https://github.com/Rajkumrdusad/MyServer.git")
+          os.system("cd "+home+" && git clone https://github.com/Mraprguild/MyServer.git")
         if os.path.exists(home+"MyServer"):
           os.system("cd "+home+"MyServer && sh install")
           os.system("clear")
